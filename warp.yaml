@@ -1,0 +1,26 @@
+name: Medusa
+accent: "#8d8dc9"
+cursor: "#8d8dc9"
+background: "#051305"
+foreground: "#b7d2b2"
+details: darker
+
+terminal_colors:
+  normal:
+    black:   "#051305"
+    red:     "#d18585"
+    green:   "#82bb7c"
+    yellow:  "#8fbf87"
+    blue:    "#8d8dc9"
+    magenta: "#cd98cd"
+    cyan:    "#a7d2a2"
+    white:   "#b7d2b2"
+  bright:
+    black:   "#5aa45a"
+    red:     "#daaaaa"
+    green:   "#b8dbb5"
+    yellow:  "#bedcb9"
+    blue:    "#bbbbe1"
+    magenta: "#e3c0e3"
+    cyan:    "#c7e5c4"
+    white:   "#89b981"
