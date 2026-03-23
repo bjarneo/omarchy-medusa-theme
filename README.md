@@ -11,7 +11,7 @@ A theme for [Omarchy](https://github.com/omarchy/omarchy).
 ## Installation
 
 ```sh
-omarchy-theme-install bjarneo/omarchy-medusa-theme
+omarchy-theme-install https://github.com/bjarneo/omarchy-medusa-theme
 ```
 
 ## Author
