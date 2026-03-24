@@ -2,7 +2,7 @@
 
 Here's my strange, unique beauty: Medusa.
 
-A theme for [Omarchy](https://github.com/omarchy/omarchy).
+A theme for [Omarchy](https://github.com/basecamp/omarchy).
 
 ![Preview](preview.jpg)
 
