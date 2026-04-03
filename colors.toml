@@ -12,9 +12,9 @@ selection_background = "#b7d2b2"
 
 # Normal colors (ANSI 0-7)
 color0 = "#051305"
-color1 = "#d18585"
+color1 = "#d08b7e"
 color2 = "#82bb7c"
-color3 = "#8fbf87"
+color3 = "#bcc278"
 color4 = "#8d8dc9"
 color5 = "#cd98cd"
 color6 = "#a7d2a2"
@@ -22,9 +22,9 @@ color7 = "#b7d2b2"
 
 # Bright colors (ANSI 8-15)
 color8 = "#5aa45a"
-color9 = "#daaaaa"
+color9 = "#dfa593"
 color10 = "#b8dbb5"
-color11 = "#bedcb9"
+color11 = "#d2d99e"
 color12 = "#bbbbe1"
 color13 = "#e3c0e3"
 color14 = "#c7e5c4"
