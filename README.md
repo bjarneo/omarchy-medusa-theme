@@ -1,19 +1,11 @@
 # Medusa
 
-Here's my strange, unique beauty: Medusa.
+A strange, green and violet theme for [Omarchy Quattro](https://github.com/omacom/omarchy).
 
-A theme for [Omarchy](https://github.com/basecamp/omarchy).
+![Medusa preview](preview.jpg)
 
-![Preview](preview.jpg)
+## Install
 
-![Preview 2](preview2.jpg)
-
-## Installation
-
-```sh
-omarchy-theme-install https://github.com/bjarneo/omarchy-medusa-theme
+```bash
+omarchy theme install https://github.com/bjarneo/omarchy-medusa-theme
 ```
-
-## Author
-
-[@iamdothash](https://x.com/iamdothash)
